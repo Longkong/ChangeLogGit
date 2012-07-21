@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
+using RestSharp;
 
 namespace ChangLogGit
 {
@@ -18,4 +19,5 @@ namespace ChangLogGit
       Application.Run(new ChangLogGit());
     }
   }
+
 }
